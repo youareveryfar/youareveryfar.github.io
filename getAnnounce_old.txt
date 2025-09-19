@@ -1398,4 +1398,3 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBS2&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW1&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=TRAM&bound=1
-
