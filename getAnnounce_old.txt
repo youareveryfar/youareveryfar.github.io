@@ -1324,6 +1324,7 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=NA41&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=NA43&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=NA47&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=NA52&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=LB1&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=LB2&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=NR&bound=1
@@ -1398,3 +1399,4 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBS2&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW1&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=TRAM&bound=1
+
