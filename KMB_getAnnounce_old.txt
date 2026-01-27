@@ -371,6 +371,7 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=71C&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=71D&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=71K&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=71P&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=71S&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=71X&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=72&bound=1
@@ -608,6 +609,7 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=171A&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=171P&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=171R&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=176&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=178R&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=182&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=182P&bound=1
@@ -818,10 +820,12 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=276A&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=276B&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=276C&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=276D&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=276P&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=276R&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=277&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=277A&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=277B&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=277E&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=277P&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=277X&bound=1
@@ -869,6 +873,7 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=288A&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=288B&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=288C&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=288D&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=288S&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=289&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=289K&bound=1
@@ -1211,6 +1216,7 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N307&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N368&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N373&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N600&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N601&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N603&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=N619&bound=1
@@ -1307,6 +1313,8 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=X215&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=Y31&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=Y41&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=BA31&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=BA41&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=EK1&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=HK1&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=HK2&bound=1
@@ -1398,5 +1406,8 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBS1&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBS2&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW1&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW2&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW3&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW4&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=PBW5&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=TRAM&bound=1
-
