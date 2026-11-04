@@ -1101,6 +1101,7 @@ https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounc
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=B9&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=B9A&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=B10&bound=1
+https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=B10S&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=B11&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=E31&bound=1
 https://search.kmb.hk/kmbwebsite/Function/FunctionRequest.ashx?action=getAnnounce&route=E32&bound=1
