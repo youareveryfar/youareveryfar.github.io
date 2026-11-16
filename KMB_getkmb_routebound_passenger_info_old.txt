@@ -518,6 +518,7 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91P&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91R&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91S&boundno=1&lang=en
+https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91Z&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=92&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=92P&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=92R&boundno=1&lang=en
@@ -1331,6 +1332,8 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=HK2&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=HK3&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=KB1&boundno=1&lang=en
+https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB1&boundno=1&lang=en
+https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB2&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA30&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA31&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA32&boundno=1&lang=en
@@ -1344,8 +1347,6 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA43&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA47&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA52&boundno=1&lang=en
-https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB1&boundno=1&lang=en
-https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB2&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NB73&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NR&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NR331&boundno=1&lang=en
@@ -1950,6 +1951,7 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91P&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91R&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91S&boundno=1&lang=tc
+https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=91Z&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=92&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=92P&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=92R&boundno=1&lang=tc
@@ -2763,6 +2765,8 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=HK2&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=HK3&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=KB1&boundno=1&lang=tc
+https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB1&boundno=1&lang=tc
+https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB2&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA30&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA31&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA32&boundno=1&lang=tc
@@ -2776,8 +2780,6 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA43&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA47&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NA52&boundno=1&lang=tc
-https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB1&boundno=1&lang=tc
-https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=LB2&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NB73&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NR&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=NR331&boundno=1&lang=tc

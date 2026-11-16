@@ -34,7 +34,6 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=7B&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=7M&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=8&boundno=1&lang=en
-https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=8A&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=8P&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=9&boundno=1&lang=en
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=10&boundno=1&lang=en
@@ -896,7 +895,6 @@ https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passen
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=7B&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=7M&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=8&boundno=1&lang=tc
-https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=8A&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=8P&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=9&boundno=1&lang=tc
 https://app1933.kmb.hk/kmb_v2_webservice/api.php?action=getkmb_routebound_passenger_info&routeno=10&boundno=1&lang=tc
